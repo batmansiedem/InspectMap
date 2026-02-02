@@ -1,0 +1,28 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="512" height="512" rx="120" fill="url(#paint0_linear)"/>
+    
+    <path d="M256 430C256 430 360 280 360 200C360 142.56 313.44 96 256 96C198.56 96 152 142.56 152 200C152 280 256 430 256 430Z" fill="black" fill-opacity="0.2" transform="translate(0, 15)"/>
+
+    <path d="M256 430C256 430 360 280 360 200C360 142.56 313.44 96 256 96C198.56 96 152 142.56 152 200C152 280 256 430 256 430Z" fill="white"/>
+
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M256 265C291.899 265 321 235.899 321 200C321 164.101 291.899 135 256 135C220.101 135 191 164.101 191 200C191 235.899 220.101 265 256 265ZM256 245C280.853 245 301 224.853 301 200C301 175.147 280.853 155 256 155C231.147 155 211 175.147 211 200C211 224.853 231.147 245 256 245Z" fill="#1565C0"/>
+    
+    <path d="M256 120L266 140H246L256 120Z" fill="#1565C0"/>
+    <path d="M336 200L316 210V190L336 200Z" fill="#1565C0"/>
+    <path d="M256 280L246 260H266L256 280Z" fill="#1565C0"/>
+    <path d="M176 200L196 190V210L176 200Z" fill="#1565C0"/>
+    <path d="M312.5 143.5L298.5 157.5L305.5 171.5L326.5 150.5L312.5 143.5Z" fill="#1565C0"/>
+    <path d="M312.5 256.5L326.5 249.5L305.5 228.5L298.5 242.5L312.5 256.5Z" fill="#1565C0"/>
+    <path d="M199.5 256.5L213.5 242.5L206.5 228.5L185.5 249.5L199.5 256.5Z" fill="#1565C0"/>
+    <path d="M199.5 143.5L185.5 150.5L206.5 171.5L213.5 157.5L199.5 143.5Z" fill="#1565C0"/>
+
+    <circle cx="256" cy="200" r="25" fill="#1976D2"/>
+    <path d="M265 190L252 215L245 205" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <defs>
+        <linearGradient id="paint0_linear" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#1976D2"/>
+            <stop offset="1" stop-color="#0D47A1"/>
+        </linearGradient>
+    </defs>
+</svg>
